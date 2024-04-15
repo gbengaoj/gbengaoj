@@ -8,7 +8,7 @@ I currently work as a Business Intelligence Developer at [Izifin](https://www.iz
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on developing scalable data architectures using GCP
-- 🌱 I’m currently learning about various Data Modelling Architectures, Cloud Native Technologies (Docker, Terraform), Data Lake/Warehouse with GCS/BigQuery
+- 🌱 I’m currently learning about Data Modelling Architectures, Cloud Native Technologies, Data Lake and Warehousing, Streaming and Batch Pipeline
 - 💬 Ask me about SQL, Python, Power BI, Excel, and Music 😉
 - ⚡ Fun fact: I can't see with my eyes closed 😆
 
