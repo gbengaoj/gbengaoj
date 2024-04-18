@@ -27,6 +27,7 @@ I currently work as a Business Intelligence Developer at [Izifin](https://www.iz
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" title="PowerAutomate" alt="PowerAutomate" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
 </div>
 
 ---
